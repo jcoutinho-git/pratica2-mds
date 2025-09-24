@@ -6,5 +6,5 @@ Para tal, o NEEI gostaria de obter um orçamento para o desenvolvimento um siste
 
 O software deve ainda permitir a consulta dos resultados de cada torneio, em tempo real e após cada torneio.
 
-🔗[Lista de Utilizadores](userList.md).
-🔗[Lista de Funcionalidades](funcList.md).
+- 🔗[Lista de Utilizadores](userList.md)
+- 🔗[Lista de Funcionalidades](funcList.md)
