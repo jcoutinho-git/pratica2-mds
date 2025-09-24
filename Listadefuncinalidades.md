@@ -1,3 +1,7 @@
 # Lista de Funcionalidades:
 
-
+-
+-
+-
+-
+-
