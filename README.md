@@ -8,4 +8,4 @@ O software deve ainda permitir a consulta dos resultados de cada torneio, em tem
 
 Ver Lista de Utilizadores [aqui](userList.md).
 
-Ver Lista de Funcionalidades [aqui](Listadefucionalidades.md).
+Ver Lista de Funcionalidades [aqui](Listadefuncinalidades.md).
